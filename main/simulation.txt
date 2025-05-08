@@ -1,0 +1,59 @@
+Tower says: Baloon#B1(5546202080637239762) registered to weather tower
+Tower says: Baloon#B2(1628121654630660677) registered to weather tower
+Tower says: JetPlane#J1(4855057764406836376) registered to weather tower
+Tower says: Helicopter#H1(4430300722604390453) registered to weather tower
+Tower says: Helicopter#H2(2957788155226442449) registered to weather tower
+Tower says: Helicopter#H3(9145287938253175967) registered to weather tower
+Tower says: Baloon#B3(7462931269302726898) registered to weather tower
+Tower says: JetPlane#J2(6652644570566574865) registered to weather tower
+Tower says: Helicopter#H4(6023568149399781086) registered to weather tower
+Baloon#B2(1628121654630660677): Be careful clouds are still doing as they want !
+JetPlane#J1(4855057764406836376): Be careful clouds are still doing as they want !
+Helicopter#H3(9145287938253175967): Let's go for an other shower !
+Helicopter#H1(4430300722604390453): Be careful clouds are still doing as they want !
+Helicopter#H2(2957788155226442449): Still sunny here !
+Tower says: Helicopter#H1(4430300722604390453) unregistered successfuly from weather tower
+Baloon#B2(1628121654630660677): Let's go for an other shower !
+Baloon#B3(7462931269302726898): Still sunny here !
+JetPlane#J2(6652644570566574865): Be careful clouds are still doing as they want !
+Helicopter#H4(6023568149399781086): Be careful clouds are still doing as they want !
+Baloon#B2(1628121654630660677): Let's go for an other shower !
+Helicopter#H3(9145287938253175967): Be careful clouds are still doing as they want !
+Baloon#B3(7462931269302726898): Be careful clouds are still doing as they want !
+JetPlane#J2(6652644570566574865): Snow doesn't stop for now !
+Tower says: JetPlane#J1(4855057764406836376) unregistered successfuly from weather tower
+Helicopter#H2(2957788155226442449): Still sunny here !
+Baloon#B3(7462931269302726898): Be careful clouds are still doing as they want !
+Helicopter#H4(6023568149399781086): Snow doesn't stop for now !
+Tower says: Helicopter#H2(2957788155226442449) unregistered successfuly from weather tower
+Baloon#B1(5546202080637239762): Let's go for an other shower !
+Helicopter#H3(9145287938253175967): Let's go for an other shower !
+Baloon#B3(7462931269302726898): Be careful clouds are still doing as they want !
+Tower says: Helicopter#H4(6023568149399781086) unregistered successfuly from weather tower
+Tower says: Helicopter#H3(9145287938253175967) unregistered successfuly from weather tower
+Baloon#B1(5546202080637239762): Snow doesn't stop for now !
+Baloon#B3(7462931269302726898): Let's go for an other shower !
+JetPlane#J2(6652644570566574865): Be careful clouds are still doing as they want !
+Baloon#B2(1628121654630660677): Snow doesn't stop for now !
+JetPlane#J2(6652644570566574865): Be careful clouds are still doing as they want !
+Baloon#B3(7462931269302726898): Let's go for an other shower !
+Baloon#B2(1628121654630660677): Still sunny here !
+Tower says: Baloon#B2(1628121654630660677) unregistered successfuly from weather tower
+Baloon#B3(7462931269302726898): Still sunny here !
+Baloon#B3(7462931269302726898): Let's go for an other shower !
+Baloon#B1(5546202080637239762): Let's go for an other shower !
+Baloon#B3(7462931269302726898): Let's go for an other shower !
+Tower says: JetPlane#J2(6652644570566574865) unregistered successfuly from weather tower
+Baloon#B1(5546202080637239762): Be careful clouds are still doing as they want !
+Baloon#B3(7462931269302726898): Be careful clouds are still doing as they want !
+Baloon#B3(7462931269302726898): Let's go for an other shower !
+Baloon#B3(7462931269302726898): Let's go for an other shower !
+Baloon#B1(5546202080637239762): Let's go for an other shower !
+Baloon#B1(5546202080637239762): Be careful clouds are still doing as they want !
+Baloon#B3(7462931269302726898): Let's go for an other shower !
+Baloon#B3(7462931269302726898): Let's go for an other shower !
+Baloon#B3(7462931269302726898): Let's go for an other shower !
+Baloon#B1(5546202080637239762): Snow doesn't stop for now !
+Tower says: Baloon#B1(5546202080637239762) unregistered successfuly from weather tower
+Baloon#B3(7462931269302726898): Be careful clouds are still doing as they want !
+Weather scenario count: 0 left && tower size: 1
