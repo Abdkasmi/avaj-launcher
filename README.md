@@ -23,6 +23,7 @@ type name longitude latitude height
 ...
 
 **Example:**
+
 5  
 Baloon B1 2 3 20  
 JetPlane J1 23 44 32  
