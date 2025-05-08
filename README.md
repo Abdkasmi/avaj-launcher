@@ -18,8 +18,8 @@ java main scenario/scenario.txt
 
 ## 📄 Scenario Format
 
-<simulation_count>  
-<type> <name> <longitude> <latitude> <height>  
+simulation_count  
+type name longitude latitude height  
 ...
 
 **Example:**
