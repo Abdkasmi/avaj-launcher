@@ -13,7 +13,7 @@ find . -name "*.java" > sources.txt
 javac @sources.txt
 
 ### Run
-cd main/
+cd main/  
 java main scenario/scenario.txt
 
 ## 📄 Scenario Format
